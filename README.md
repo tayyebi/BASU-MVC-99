@@ -2,7 +2,9 @@ MVC Workshop Bu-Ali Sina University
 ===
 
 Author and Instructor: **Mohammad R. @tayyebi**
+
 Host: **Computer Engineering Student Scientific Society of Bu-Ali Sina University**
+
 Poster Design: **Erfan Seify**
 
 
@@ -12,4 +14,6 @@ Poster Design: **Erfan Seify**
 <https://github.com/tayyebi/BASU-MVC-99/blob/master/slides/BASU-MVC-99.pdf>
 
 # فیلم‌های جلسات | Video Cast
-<...>
+
+## Aparat.com در آپارات
+<https://www.aparat.com/playlist/335737>
